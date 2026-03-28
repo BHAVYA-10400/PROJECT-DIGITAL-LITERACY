@@ -1,5 +1,5 @@
 # PROJECT-DIGITAL-LITERACY
-CSE0001: Digital Literacy Project (README FILE)
+Digital Literacy Project (README FILE)
 
 Student Digital Ambassador Portfolio
 Name: BHAVYA GAURANG VYAS
