@@ -1,0 +1,29 @@
+TASK 5 PART B
+
+Stay Safe Online: Prevention Checklist
+
+1.Enable Two-Factor Authentication (2FA): Activate 2FA on your VIT student email, Gmail, and all social media accounts to provide an extra layer of security beyond just a password.
+
+2.Verify UPI 'Receive' Requests: Remember that you never need to enter your UPI PIN to receive money. If a "buyer" on a marketplace asks you to enter a PIN to get a payment, it is a scam.
+
+3.Secure Your UPI App: Set a strong biometric or pattern lock specifically for your UPI and banking apps to prevent unauthorized access if your phone is lost or stolen in the hostel or on campus.
+
+4.Avoid Public Wi-Fi for Banking: Never log into your bank accounts or enter credit card details while connected to public or unsecured Wi-Fi networks in cafes or public transport.
+
+5.Use Strong, Unique Passwords: Create complex passwords using a mix of upper/lowercase letters, numbers, and symbols. Avoid using the same password for your university portal and your personal accounts.
+
+6.Check Link Authenticity: Before clicking on a link in an SMS or WhatsApp message claiming to be from a bank or a "job offer," verify the URL. Scammers often use "bit.ly" or misspelled domain names.
+
+7.Keep Your OS and Apps Updated: Regularly update your Android/iOS and your laptop’s operating system to ensure you have the latest security patches against malware and ransomware.
+
+8.Audit Your Privacy Settings: Periodically check your Instagram and LinkedIn privacy settings to ensure your phone number and location are not visible to the general public.
+
+
+***IMPORTANT***
+
+Official Reporting Channels (India)
+If you or someone you know falls victim to a cybercrime, report it immediately:
+
+National Cyber Crime Portal: cybercrime.gov.in
+
+National Helpline Number: 1930 (Available 24x7)

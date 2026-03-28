@@ -1,0 +1,27 @@
+TASK 5 PART A
+
+Case Study: UPI "Request Money" Fraud
+
+Q1. What the Crime Is?
+
+UPI (Unified Payments Interface) fraud involves deceiving a victim into authorizing a transaction that drains their bank account. Unlike hacking, this crime relies on "social engineering," where the attacker manipulates the victim into voluntarily entering their UPI PIN under a false pretext.
+
+Q2. How it Typically Happens (Step-by-Step)? 
+
+1. The Bait: The fraudster finds a target on a secondary marketplace (like OLX) or social media. They pose as a buyer interested in an item the victim is selling.
+
+
+2. The Deception: The attacker claims they want to send an advance payment but "accidentally" sends a "Request Money" notification to the victim's UPI app instead of a "Send Money" transaction.
+
+
+3. The Manipulation: Over a phone call, the attacker confuses the victim, telling them that to receive the money, they must click the notification and enter their UPI PIN.
+
+4. The Theft: As soon as the victim enters the PIN, they are actually authorizing a debit. The money is instantly transferred from the victim's account to the fraudster’s account.
+
+Q3. Who is Usually Targeted ?
+
+Targets often include college students, small-time online sellers, and elderly individuals who are familiar with using digital apps but may not understand that a PIN is only required for sending money, never for receiving it.
+
+The Consequences
+
+The primary consequence is immediate financial loss, which is often difficult to recover due to the instantaneous nature of UPI. Victims also experience significant psychological stress, a loss of trust in digital banking, and the risk of their personal data being sold for further identity theft
